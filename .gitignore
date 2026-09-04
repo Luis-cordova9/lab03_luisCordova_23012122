@@ -1,0 +1,11 @@
+# Salida de compilacion (se regenera con Build)
+out/
+tmp/
+
+# Archivos generados por csolution
+*.cbuild-idx.yml
+*.cbuild-pack.yml
+
+# Configuracion local del editor: contiene rutas absolutas de esta maquina
+.vscode/settings.json
+.clangd
